@@ -1,0 +1,17 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Animated Image
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=image-jpeg
+X-Plasma-API=ruby-script
+X-Plasma-MainScript=code/main.rb
+X-KDE-PluginInfo-Author=Kenneth Perry (thothonegan)
+X-KDE-PluginInfo-Email=thothonegan@gmail.com
+X-KDE-PluginInfo-Name=plasmoid-animatedimage
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Category=Graphics
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+
